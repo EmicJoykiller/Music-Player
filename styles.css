@@ -1,11 +1,11 @@
 :root {
   /* colors */
-  --primary-color: #dfdfe2;
-  --secondary-color: #ffffff;
-  --app-background-color: #4d4d62;
-  --background-color: #1b1b32;
-  --foreground-color: #3b3b4f;
-  --highlight-color: #f1be32;
+  --primary-color: #ff6f61; /* Coral - Warm and inviting */
+  --secondary-color: #f8b400; /* Golden Yellow - Energetic and fresh */
+  --app-background-color: #1a1a2e; /* Dark Navy - Sleek and sophisticated */
+  --background-color: #16213e; /* Rich Navy - Calm and professional */
+  --foreground-color: #e1e6fa; /* Light Lavender - Soft and readable */
+  --highlight-color: #ff4040; /* Vivid Red - Bold and attention-grabbing */
 
   /* font sizes */
   --root-font-size: 16px;
